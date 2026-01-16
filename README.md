@@ -1,3 +1,3 @@
-# PDC_Simulation
+# Parcel Distribution Center Game
 
-Java project to develop knowledge in coding practices such as encapsulation and OOP and to expirement with 2D graphics. 
+Java children's game to help teach colors and help me develop knowledge in coding practices such as encapsulation and OOP 
